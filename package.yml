@@ -1,9 +1,27 @@
 matches:
-  - trigger: ':n1'
-    replace: "Sandeep Reddy Battula"
   - trigger: ':a1'
-    replace: "32"
-  - trigger: ':c1'
+    replace: "Sandeep Reddy Battula"
+
+  - trigger: ':b1'
     replace: "345739904878"  
-  - trigger: ':na1'
-    replace: "Sandeep Reddy Battula\t32"
+
+  - trigger: ':a2'
+    replace: "Annapareddy Haritha"  
+
+  - trigger: ':b2'
+    replace: "892419244538"  
+
+  - trigger: ':a3'
+    replace: "Subba Reddy Battula"
+    
+  - trigger: ':b3'
+    replace: "529973881693"
+
+  - trigger: ':a4'
+    replace: "Battula Mangamma"
+    
+  - trigger: ':b4'
+    replace: "612018992408"
+
+  - trigger: ':p1'
+    replace: b.sandeepreddy209@okaxis  
