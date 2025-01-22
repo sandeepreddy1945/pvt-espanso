@@ -1,0 +1,5 @@
+matches:
+  - trigger: ':100:'
+    replace: "\U0001F4AF"
+  - trigger: ':score:'
+    replace: "\U0001F4AF"
