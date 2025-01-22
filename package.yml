@@ -1,5 +1,9 @@
 matches:
-  - trigger: ':100:'
-    replace: "\U0001F4AF"
-  - trigger: ':score:'
-    replace: "\U0001F4AF"
+  - trigger: ':n1'
+    replace: "Sandeep Reddy Battula"
+  - trigger: ':a1'
+    replace: "32"
+  - trigger: ':c1'
+    replace: "345739904878"  
+  - trigger: ':na1'
+    replace: "Sandeep Reddy Battula\t32"
