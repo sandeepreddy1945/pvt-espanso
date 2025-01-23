@@ -36,7 +36,7 @@ matches:
     replace: 486348935127
 
   - trigger: ':a6'
-    replace: Battula aruna
+    replace: Battula Aruna
 
   - trigger: ':b6'
     replace: 285864395449
