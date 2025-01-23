@@ -24,4 +24,19 @@ matches:
     replace: "612018992408"
 
   - trigger: ':p1'
-    replace: b.sandeepreddy209@okaxis  
+    replace: b.sandeepreddy209@okaxis
+
+  - trigger: ':p2'
+    replace: b.sandeepreddy209@oksbi
+
+  - trigger: ':a5'
+    replace: Battula Hari Krishna
+
+  - trigger: ':b5'
+    replace: 486348935127
+
+  - trigger: ':a6'
+    replace: Battula aruna
+
+  - trigger: ':b6'
+    replace: 285864395449
